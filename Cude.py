@@ -1,0 +1,1 @@
+#find the cube sum of first n numbers
